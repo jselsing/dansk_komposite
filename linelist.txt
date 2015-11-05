@@ -1,0 +1,47 @@
+#Emission lines
+
+$Ly\beta\:\lambda1026$      1025.72 
+$OVI\:\lambda1035$          1033.83 
+
+$Ly\alpha\:\lambda1216$     1215.67 
+$NV\:\lambda1240$           1240.14 
+
+
+$SiIV\:\lambda1400$         1402.77 
+
+$CIV\:\lambda1549$          1549.06 
+$HeII\:\lambda1640$         1640.42 
+
+$CIII]\:\lambda1909$        1908.73 
+$CII]\:\lambda2326$         2326.44 
+
+
+$MgII\:\lambda2798$         2800.32 
+
+
+$[NeV]\:\lambda3426$        3426.84 
+
+
+$[OII]\:\lambda3727$        3728.48 
+
+
+
+
+$H\delta\:\lambda4101$     4102.89 
+
+$H\gamma\:\lambda4340$     4341.68 
+
+
+$H\beta\:\lambda4861$      4862.68
+
+$[OIII]\:\lambda4959$       4960.30 
+$[OIII]\:\lambda5007$       5008.24 
+
+
+$H\alpha\:\lambda6563$     6564.61 
+
+
+
+
+
+
