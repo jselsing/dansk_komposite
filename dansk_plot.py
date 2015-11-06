@@ -59,7 +59,9 @@ def main():
         item.set_fontsize(16)
 
 
-    ax.set_xlabel(r'Hvileboelgelaengde [$\AA$]')
+    from matplotlib import rcParams
+    rcParams['text.usetex']=True
+    ax.set_xlabel(r'Hvileb$\textsf{\o}$lgel$\textsf{\oe}$ngde $\textsf{\AA}$')
     ax.set_ylabel(r'Skaleret flux $\lambda$F$_\lambda$')
 
 
